@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9DD8A69C-9406-4CD9-B6E5-0E33697C8C6E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CartDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CartDemo/DAL/ProductsControllerDAL.cs">
+    <Files>
+      <File FileName="CartDemo/Program.cs" />
+      <File FileName="CartDemo/Services/ConsoleService.cs" />
+      <File FileName="CartDemo/DAL/DatabaseConnector.cs" />
+      <File FileName="CartDemo/appsettings.json" />
+      <File FileName="CartDemo/DAL/ProductsControllerDAL.cs" Line="32" Column="68" />
+      <File FileName="CartDemo/Models/Product.cs" />
+      <File FileName="CartDemo/Models/Cart.cs" />
+      <File FileName="CartDemo/Controllers/CartController.cs" />
+      <File FileName="CartDemo/Controllers/ProductController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CartDemo" expanded="True">
+            <Node name="CartDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True">
+                <Node name="ProductsControllerDAL.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
